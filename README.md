@@ -4,17 +4,17 @@ In this class we are learning about HTML.
 
 The resources we were given are:
 
--[Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+- [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
 
--[Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
--[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
 Some other helpful resources to skim over are:
 
--[Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
--[Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 ## Q&A
 
